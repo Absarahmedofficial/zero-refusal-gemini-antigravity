@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this research dataset, please cite it as below."
+type: dataset
+authors:
+  - family-names: Ahmed
+    given-names: Absar
+title: "Zero Refusal: Gemini 3.1 Pro High in Google Antigravity"
+date-released: 2026-09-29
+url: "https://github.com/Absarahmedofficial/zero-refusal-gemini-antigravity"
